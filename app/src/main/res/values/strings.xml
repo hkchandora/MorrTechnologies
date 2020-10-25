@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Credit Card Input Exercise</string>
+    <string name="cardNumber">Card Number</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="ccv">CCV</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit_payment">Submit Payment</string>
+</resources>
